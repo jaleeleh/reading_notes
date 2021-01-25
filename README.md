@@ -3,6 +3,7 @@
 **Those who hold a growth mindset believe that they can get better at something by dedication of time, effort and energy. Working on one’s flaws, and the process—not the outcome—are the most important components. With time and practice, people with a growth mindset believe they can achieve what they want.**
 
 ![mindset](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyzYnEW3SFKbQHjbAXPCoL3DdynalcudHqA&usqp=CAU)
+
 ## 3 reminders of how to keep myself in a growth mindset:
 1. Learn from other people’s mistakes.
 2. Celebrate growth with others.
