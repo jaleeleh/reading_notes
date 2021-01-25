@@ -6,4 +6,4 @@
 table:
 |  name of file          | the link     | 
 | :---------------------:|    :----:        |     
-| lab02b                 | Title       | 
+| lab02b                 | https://github.com/jaleeleh/reading_notes/blob/main/lab02b.md      | 
