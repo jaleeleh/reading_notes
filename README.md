@@ -6,5 +6,5 @@
 
 |  name of file          | the link                                                           | 
 | :---------------------:| :------------------------------------------------------------:     |     
-| lab02b                 | https://github.com/jaleeleh/reading_notes/blob/main/lab02b.md      |
+| lab02b                 | [lab02](lab02b.md)                                                 |
 | lab03a                 | [read03](read03.md )                                               |
