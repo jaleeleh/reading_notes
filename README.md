@@ -10,3 +10,4 @@
 | read03                 | [read03](read03)                                                   |
 | read04                 | [read04](read04)                                                   |
 | read05                 | [read05](read05)                                                   |
+| read06                 | [read06](read6)                                                    |
