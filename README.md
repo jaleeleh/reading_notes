@@ -11,3 +11,8 @@
 | read04                 | [read04](read04)                                                   |
 | read05                 | [read05](read05)                                                   |
 | read06                 | [read06](read6)                                                    |
+
+# Code 201 Reading Notes
+|  name of file          | the link                                                           | 
+| :---------------------:| :------------------------------------------------------------:     |     
+| read(1)                | [read(1)](class-01)                                                    |
