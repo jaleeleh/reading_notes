@@ -2,7 +2,8 @@
 * Events are the browser's way of indicating when
 something has happened (such as when a page has
 finished loading or a button has been clicked).
-**TERMINOLOGY**
+
+ **TERMINOLOGY**
 1. EVENTS FIRE OR ARE RAISED
 When an event has occurred, it is often described as having fired or
 been raised. In the diagram on the right, if the user is tapping on a link, a
@@ -19,9 +20,8 @@ for that event to happen upon.
 JavaScript function. When this function then changes
 the web page in some way, it feels interactive because
 it has responded to the user.
-
 **THE EVENT OBJECT**
-When an event occurs, the event object tells
-you information about the event, and the
-element it happened upon.
+ When an event occurs, the event object tells
+ you information about the event, and the
+ element it happened upon.
 
