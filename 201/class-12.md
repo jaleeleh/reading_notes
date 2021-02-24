@@ -7,13 +7,13 @@
 he ```<canvas>``` element differs from an ```<img> ```tag in that, like for ```<video>, <audio>```, or ```<picture>``` elements, it is easy to define some fallback content, to be displayed in older browsers not supporting it,just insert the alternate content inside the ```<canvas>``` element
 * The ```<canvas>``` element has a method called getContext(), used to obtain the rendering context and its drawing functions. getContext() takes one parameter, the type of context.like:```var ctx = canvas.getContext('2d');```
 * Scripts can also check for support programmatically by testing for the presence of the getContext() method.
-var canvas = document.getElementById('tutorial');
+```var canvas = document.getElementById('tutorial');
 if (canvas.getContext) {
   var ctx = canvas.getContext('2d');
   // drawing code here
 } else {
   // canvas-unsupported code here
-}
+}```
 * The script includes a function called ```draw()```, which is executed once the page finishes loading.
 
 **Droawding shapes**
